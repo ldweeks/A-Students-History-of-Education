@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta name="dtb:uid" content="LucasWeeksId" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>A Student's History of Education</text>
+  </docTitle>
+  <docAuthor>
+    <text>Frank Pierrepont Graves</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="preface" playOrder="1">
+      <navLabel>
+        <text>Preface</text>
+      </navLabel>
+      <content src="content/preface.xml" />
+    </navPoint>
+    <navPoint id="illustrations" playOrder="2">
+      <navLabel>
+        <text>Illustrations</text>
+      </navLabel>
+      <content src="content/illustrations.xml" />
+    </navPoint>
+    <navPoint id="forward" playOrder="3">
+      <navLabel>
+        <text>Forward</text>
+      </navLabel>
+      <content src="content/forward.xml" />
+    </navPoint>
+    <navPoint id="part1" playOrder="4">
+      <navLabel>
+        <text>Part I: Ancient Times</text>
+      </navLabel>
+      <content src="content/part1.xml" />
+    </navPoint>
+    <navPoint id="ch1" playOrder="5">
+      <navLabel>
+        <text>1 - The Earliest Education</text>
+      </navLabel>
+      <content src="content/ch1.xml" />
+    </navPoint>
+    <navPoint id="ch2" playOrder="6">
+      <navLabel>
+        <text>2 - The Education of the Greeks</text>
+      </navLabel>
+      <content src="content/ch2.xml" />
+    </navPoint>
+    <navPoint id="ch3" playOrder="7">
+      <navLabel>
+        <text>3 - The Education of the Romans</text>
+      </navLabel>
+      <content src="content/ch3.xml" />
+    </navPoint>
+    <navPoint id="ch4" playOrder="8">
+      <navLabel>
+        <text>4 - The Education of the Early Christians</text>
+      </navLabel>
+      <content src="content/ch4.xml" />
+    </navPoint>
+    <navPoint id="part2" playOrder="9">
+      <navLabel>
+        <text>Part II: The Middle Ages</text>
+      </navLabel>
+      <content src="content/part2.xml" />
+    </navPoint>
+    <navPoint id="ch5" playOrder="10">
+      <navLabel>
+        <text>5 - The Monastic Education</text>
+      </navLabel>
+      <content src="content/ch5.xml" />
+    </navPoint>
+    <navPoint id="ch6" playOrder="11">
+      <navLabel>
+        <text>6 - Charlemagne's Education</text>
+      </navLabel>
+      <content src="content/ch6.xml" />
+    </navPoint>
+    <navPoint id="ch7" playOrder="12">
+      <navLabel>
+        <text>7 - Moslem Learning and Education</text>
+      </navLabel>
+      <content src="content/ch7.xml" />
+    </navPoint>
+    <navPoint id="ch8" playOrder="13">
+      <navLabel>
+        <text>8 - Educational Tendencies of Scholasticism</text>
+      </navLabel>
+      <content src="content/ch8.xml" />
+    </navPoint>
+    <navPoint id="ch9" playOrder="14">
+      <navLabel>
+        <text>9 - The Medieval Universities</text>
+      </navLabel>
+      <content src="content/ch9.xml" />
+    </navPoint>
+    <navPoint id="ch10" playOrder="15">
+      <navLabel>
+        <text>10 - The Education of Chivalry</text>
+      </navLabel>
+      <content src="content/ch10.xml" />
+    </navPoint>
+    <navPoint id="ch11" playOrder="16">
+      <navLabel>
+        <text>11 - The Burgher, Gild and Chantry Schools</text>
+      </navLabel>
+      <content src="content/ch11.xml" />
+    </navPoint>
+    <navPoint id="part3" playOrder="17">
+      <navLabel>
+        <text>Part III: The Transition to Modern Times</text>
+      </navLabel>
+      <content src="content/part3.xml" />
+    </navPoint>
+    <navPoint id="ch12" playOrder="18">
+      <navLabel>
+        <text>12 - The Humanistic Education</text>
+      </navLabel>
+      <content src="content/ch12.xml" />
+    </navPoint>
+    <navPoint id="ch13" playOrder="19">
+      <navLabel>
+        <text>13 - Educational Influences of the Reformation</text>
+      </navLabel>
+      <content src="content/ch13.xml" />
+    </navPoint>
+    <navPoint id="ch14" playOrder="20">
+      <navLabel>
+        <text>14 - Early Realism and the Innovators</text>
+      </navLabel>
+      <content src="content/ch14.xml" />
+    </navPoint>
+    <navPoint id="ch15" playOrder="21">
+      <navLabel>
+        <text>15 - Sense Realism and the Early Scientific Movement</text>
+      </navLabel>
+      <content src="content/ch15.xml" />
+    </navPoint>
+    <navPoint id="ch16" playOrder="22">
+      <navLabel>
+        <text>16 - Formal Discipline in Education</text>
+      </navLabel>
+      <content src="content/ch16.xml" />
+    </navPoint>
+    <navPoint id="ch17" playOrder="23">
+      <navLabel>
+        <text>17 - Education in the American Colonies</text>
+      </navLabel>
+      <content src="content/ch17.xml" />
+    </navPoint>
+    <navPoint id="part4" playOrder="24">
+      <navLabel>
+        <text>Part IV: Modern Times</text>
+      </navLabel>
+      <content src="content/part4.xml" />
+    </navPoint>
+    <navPoint id="ch18" playOrder="25">
+      <navLabel>
+        <text>18 - Growth of the Democratic Ideal in Education</text>
+      </navLabel>
+      <content src="content/ch18.xml" />
+    </navPoint>
+    <navPoint id="ch19" playOrder="26">
+      <navLabel>
+        <text>19 - Naturalism in Education</text>
+      </navLabel>
+      <content src="content/ch19.xml" />
+    </navPoint>
+    <navPoint id="ch20" playOrder="27">
+      <navLabel>
+        <text>20 - Philanthropy in Education</text>
+      </navLabel>
+      <content src="content/ch20.xml" />
+    </navPoint>
+    <navPoint id="ch21" playOrder="28">
+      <navLabel>
+        <text>21 - The Period of Transition in American Education</text>
+      </navLabel>
+      <content src="content/ch21.xml" />
+    </navPoint>
+    <navPoint id="ch22" playOrder="29">
+      <navLabel>
+        <text>22 - Observation and Industrial Training in Education</text>
+      </navLabel>
+      <content src="content/ch22.xml" />
+    </navPoint>
+    <navPoint id="ch23" playOrder="30">
+      <navLabel>
+        <text>23 - Development of Public Education in the United States</text>
+      </navLabel>
+      <content src="content/ch23.xml" />
+    </navPoint>
+    <navPoint id="ch24" playOrder="31">
+      <navLabel>
+        <text>24 - Development of Educational Practice</text>
+      </navLabel>
+      <content src="content/ch24.xml" />
+    </navPoint>
+    <navPoint id="ch25" playOrder="32">
+      <navLabel>
+        <text>25 - The Development of Modern Systems</text>
+      </navLabel>
+      <content src="content/ch25.xml" />
+    </navPoint>
+    <navPoint id="ch26" playOrder="33">
+      <navLabel>
+        <text>26 - The Scientific Movement and the Curriculum</text>
+      </navLabel>
+      <content src="content/ch26.xml" />
+    </navPoint>
+    <navPoint id="ch27" playOrder="34">
+      <navLabel>
+        <text>27 - Present Day Tendencies in Education</text>
+      </navLabel>
+      <content src="content/ch27.xml" />
+    </navPoint>
+    <navPoint id="ch28" playOrder="35">
+      <navLabel>
+        <text>28 - Retrospect and Prospect</text>
+      </navLabel>
+      <content src="content/ch28.xml" />
+    </navPoint>
+  </navMap>
+</ncx>
