@@ -1,7 +1,7 @@
 A-Students-History-of-Education
 ===============================
 
-A book entitled "A Student's History of Education", but Frank Graves..
+A book entitled "A Student's History of Education", but Frank Graves. The book was originally scanned by Google, and I'm going through it carefully and cleaning up mistakes. I have crossed out the chapters that I have finished:
 
 * ~~cover~~
 * ~~preface~~
@@ -34,3 +34,7 @@ A book entitled "A Student's History of Education", but Frank Graves..
 * Chapter 26
 * Chapter 27
 * Chapter 28
+
+Other outstanding tasks:
+
+* Put images back into the ebook where they should go.
