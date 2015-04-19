@@ -33,7 +33,7 @@ A book entitled "A Student's History of Education", but Frank Graves. The book w
 * Chapter 25
 * ~~Chapter 26~~
 * ~~Chapter 27~~
-* Chapter 28
+* ~~Chapter 28~~
 
 Other outstanding tasks:
 
